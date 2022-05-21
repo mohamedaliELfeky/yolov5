@@ -1,2 +1,4 @@
 *.0
 runs/train/*
+*.cache
+*.pt
