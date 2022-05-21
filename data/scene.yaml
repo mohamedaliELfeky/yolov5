@@ -3,11 +3,11 @@
 
 #path: /content/drive/MyDrive/[CV 2022] Project
 
-train: ../scene_dataset/train
+train: ../scene_dataset/images/train
 
 #val: val2017.txt  
 
-val: ../scene_dataset/val
+val: ../scene_dataset/images/val
 
 # Classes
 nc: 12  # number of classes
