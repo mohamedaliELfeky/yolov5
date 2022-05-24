@@ -2,3 +2,4 @@
 runs/train/*
 *.cache
 *.pt
+scene_dataset
