@@ -1,0 +1,29 @@
+
+
+
+#path: /content/drive/MyDrive/[CV 2022] Project
+
+train: ./scene_dataset/train
+
+#val: val2017.txt  
+
+val: ./scene_dataset/val
+
+# Classes
+nc: 12  # number of classes
+
+names: [
+    "Bicycle", 
+    "Boat",
+    "Bottle",
+    "Bus",
+    "Car",
+    "Cat",
+    "Chair",
+    "Cup",
+    "Dog",
+    "Motorbike",
+    "People",
+    "Table"
+]  # class names
+
