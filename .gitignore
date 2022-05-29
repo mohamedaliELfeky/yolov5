@@ -1,5 +1,6 @@
 *.0
-runs/train/*
+runs/train/
 *.cache
 *.pt
 scene_dataset
+data/images/*
